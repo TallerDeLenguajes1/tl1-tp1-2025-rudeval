@@ -12,7 +12,7 @@ El archivo se debe crear desde el inicio del proyecto, antes de hacer el primer 
 4. Hacer commit y push de los cambios. 
 
 ### **Ejercicio 2**
-hola 
-_hola_
+¿Por qué es conveniente incluirlo? 
+¿Cuándo se debe hacer?¿Cómo configuraría el archivo .gitignore? 
 
 
