@@ -10,3 +10,9 @@ El archivo se debe crear desde el inicio del proyecto, antes de hacer el primer 
 2. Agregar la línea para que Git ignore el archivo ignorado.txt 
 3. Guardar y confirmar los cambios.
 4. Hacer commit y push de los cambios. 
+
+### **Ejercicio 2**
+hola 
+_hola_
+
+
