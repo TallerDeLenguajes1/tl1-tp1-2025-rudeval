@@ -10,3 +10,14 @@ El archivo se debe crear desde el inicio del proyecto, antes de hacer el primer 
 2. Abrirlo y agregar la línea con el nombre del archivo que se desea ignorar, por ejemplo: _ignorado.txt_
 3. Guardar los cambios y agregar el archivo .gitignore al staging con _git add .gittignore_
 4. Hacer commit y push de los cambios al repositorio. 
+
+## **Ejercicio 3g** 
+Al mostrar las direcciones, el resultado es el mismo ya que ambas sentencias son equivalentes. 
+
+* En el apartado 2, mostramos el valor almacenado en el puntero, que es la dirección de memoria de la variable a la que está referenciada.
+* En el apartado 3, mostramos directamente la dirección de la variable usando el operador de dirección (&).
+
+Esto se debe a que un puntero referencia la ubicación en memoria de una variable. Al mostrar el contenido del puntero (sin usar el operador *), lo que realmente estamos viendo es esa dirección de memoria. 
+Por otro lado, cuando usamos &vble,  también estamos accediendo a la dirección de la variable. 
+
+* En el punto 4 obtenemos la dirección de memoria en la cual se encuentra el puntero que referencia a la variable, una dirección distinta ya que este mismo es también una variable que ocupa su lugar en la memoria. 
