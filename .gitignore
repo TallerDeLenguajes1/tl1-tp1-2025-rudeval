@@ -2,6 +2,8 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=c,visualstudiocode,windows
 
 ignorar.txt
+codigos_de_ejemplo/
+
 
 ### C ###
 # Prerequisites
